@@ -1,10 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto|Aldrich);
+@import url(https://fonts.googleapis.com/css?family=Roboto|Aldrich|Chivo);
 html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef;
   color: #776e65;
-  font-family: Roboto;
+  font-family: Chivo;
   font-size: 18px; }
 
 body {
@@ -53,6 +53,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
+  font-family: Chivo;
   background: #bbada0;
   padding: 15px 25px;
   font-size: 25px;
