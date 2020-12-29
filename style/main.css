@@ -425,45 +425,45 @@ hr {
     background: #ff00ff; }
   .tile.tile-11 .tile-inner {
     color: #ffffff;
-    background: #ff00ff;
+    background: #df20df;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.05), inset 0 0 0 1px rgba(255, 255, 255, 0.03333); }
   .tile.tile-12 .tile-inner {
     color: #ffffff;
-    background: #ff00ff;
+    background: #bf40bf;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.10), inset 0 0 0 1px rgba(255, 255, 255, 0.06667); }
   .tile.tile-13 .tile-inner {
     color: #ffffff;
-    background: #ff00ff;
+    background: #9f609f;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.15), inset 0 0 0 1px rgba(255, 255, 255, 0.10000); }
   .tile.tile-14 .tile-inner {
     color: #ffffff;
-    background: #ff00ff;
+    background: #808080;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.20), inset 0 0 0 1px rgba(255, 255, 255, 0.13333); }
   .tile.tile-15 .tile-inner {
     color: #ffffff;
-    background: #ff00ff;
+    background: #609f60;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.25), inset 0 0 0 1px rgba(255, 255, 255, 0.16667); }
   .tile.tile-16 .tile-inner {
     color: #ffffff;
-    background: #ff00ff;
+    background: #40bf40;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.30), inset 0 0 0 1px rgba(255, 255, 255, 0.20000); }
   .tile.tile-17 .tile-inner {
-    color: #ffffff;
-    background: #ff00ff;
+    color: #000000;
+    background: #20df20;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.40), inset 0 0 0 1px rgba(255, 255, 255, 0.26667); }
   .tile.tile-18 .tile-inner {
-    color: #ffffff;
-    background: #ff00ff;
+    color: #000000;
+    background: #00ff00;
     box-shadow: 0 0 30px 10px rgba(255, 0, 255, 0.50), inset 0 0 0 1px rgba(255, 255, 255, 0.33333); }
   .tile.tile-19 .tile-inner {
     color: #ffffff;
     background: #444444; }
   .tile.tile-20 .tile-inner {
-    color: #000000;
+    color: #ffffff;
     background: #666600;
     box-shadow: 0 0 30px 10px rgba(255, 255, 255, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.06667); }
   .tile.tile-21 .tile-inner {
-    color: #000000;
+    color: #ffffff;
     background: #999900;
     box-shadow: 0 0 36px 12px rgba(255, 255, 255, 0.2), inset 0 0 0 1px rgba(255, 255, 255, 0.13333); }
   .tile.tile-22 .tile-inner {
@@ -483,8 +483,8 @@ hr {
     background: linear-gradient(to bottom right, #f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00);
     box-shadow: 0 0 90px 30px rgba(0, 0, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.66667); }
   .tile.tile-super .tile-inner {
-    color: #f9f6f2;
-    background: #3c3a32; }
+    color: #ffffff;
+    background: #000000; }
 
 @-webkit-keyframes appear {
   0% {
